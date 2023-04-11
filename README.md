@@ -1,4 +1,4 @@
-# Delroy_Barnies_Full_stack_projects
+# Delroy_Barnies_Fullstack_projects
 
 Welcome to my Github repostiory! I developed every project here in Eclipse and spring tool suite for backend and VS Code for the frontend. The tech stack I am using is Spring Boot for backend, Html5 and Css3 for frontend.
 
